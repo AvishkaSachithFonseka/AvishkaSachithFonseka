@@ -39,14 +39,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avishkasachithfonseka&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishkasachithfonseka&theme=radical&hide_border=true" alt="Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishkasachithfonseka&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
+
