@@ -4,6 +4,23 @@
 <p align="center">
   <a href="mailto:panambara222@gmail.com">📧 panambara222@gmail.com</a>
 </p>
+<div style="display:flex; align-items:center; gap:10px;">
+  <div style="width:200px; height:4px; background:#333; position:relative; overflow:hidden;">
+    <div style="
+      width:20px; height:20px; background:#4CAF50; border-radius:50%;
+      position:absolute; top:-8px; left:0;
+      animation: movePacket 3s linear infinite;">
+    </div>
+  </div>
+  <span style="font-family:monospace; font-size:14px;">Network Packet Flow</span>
+</div>
+
+<style>
+@keyframes movePacket {
+  from { left:0; }
+  to { left:180px; }
+}
+</style>
 
 ---
 
